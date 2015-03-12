@@ -5,11 +5,17 @@ The .git directory is created and the basics are set up to start adding commits 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+It is set apart from the working directory so you can line up the things that need to be committed.  But these are not yet in the repository, so it is an intermediate place.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+You put in just what you want in the next commit and you can check it to make sure the right things are there.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+Keeping new ideas separate, keeping different versions separate, so you don't have to have them all in the master.  Also you can continue to patch the master while working on a new version.
 
 How do the diagrams help you visualize the branch structure?
 
