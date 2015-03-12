@@ -19,8 +19,12 @@ Keeping new ideas separate, keeping different versions separate, so you don't ha
 
 How do the diagrams help you visualize the branch structure?
 
+They make it easier to see the flow of commits in each branch.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+Both branches' changes are included.  The merged point now has two parents.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
