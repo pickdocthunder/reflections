@@ -28,3 +28,6 @@ Both branches' changes are included.  The merged point now has two parents.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Pro of auto merge - simplifies doing merges.  Cons - could get bad merges without conflicts depending on which lines each branch changed.
+
